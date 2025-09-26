@@ -23,4 +23,4 @@ Styling	CSS3
 Interactivity/Logic	Vanilla JavaScript (ES6+)
 Data Persistence	Browser's Local Storage
 
-Export to Sheets
+
